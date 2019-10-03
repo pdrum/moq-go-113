@@ -1,0 +1,1 @@
+Accompanies discussions in https://github.com/matryer/moq/pull/105
