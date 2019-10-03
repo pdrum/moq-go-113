@@ -1,1 +1,1 @@
-Accompanies discussions in https://github.com/matryer/moq/pull/105
+Accompanies discussions in [this PR](https://github.com/matryer/moq/pull/105)
